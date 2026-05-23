@@ -15,3 +15,10 @@ frontend/
 │   └── WalletPreview.jsx
 └── styles/
     └── globals.css
+Dashboard
+↓
+Wallet
+↓
+Admin UI
+↓
+Build
